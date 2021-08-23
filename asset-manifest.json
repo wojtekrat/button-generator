@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/button-generator/static/css/main.d47453e4.chunk.css",
-    "main.js": "/button-generator/static/js/main.f0a53709.chunk.js",
-    "main.js.map": "/button-generator/static/js/main.f0a53709.chunk.js.map",
+    "main.js": "/button-generator/static/js/main.96104b6a.chunk.js",
+    "main.js.map": "/button-generator/static/js/main.96104b6a.chunk.js.map",
     "runtime-main.js": "/button-generator/static/js/runtime-main.f525dff7.js",
     "runtime-main.js.map": "/button-generator/static/js/runtime-main.f525dff7.js.map",
-    "static/js/2.1d72f195.chunk.js": "/button-generator/static/js/2.1d72f195.chunk.js",
-    "static/js/2.1d72f195.chunk.js.map": "/button-generator/static/js/2.1d72f195.chunk.js.map",
+    "static/js/2.ccc4ef2a.chunk.js": "/button-generator/static/js/2.ccc4ef2a.chunk.js",
+    "static/js/2.ccc4ef2a.chunk.js.map": "/button-generator/static/js/2.ccc4ef2a.chunk.js.map",
     "index.html": "/button-generator/index.html",
     "static/css/main.d47453e4.chunk.css.map": "/button-generator/static/css/main.d47453e4.chunk.css.map",
-    "static/js/2.1d72f195.chunk.js.LICENSE.txt": "/button-generator/static/js/2.1d72f195.chunk.js.LICENSE.txt"
+    "static/js/2.ccc4ef2a.chunk.js.LICENSE.txt": "/button-generator/static/js/2.ccc4ef2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f525dff7.js",
-    "static/js/2.1d72f195.chunk.js",
+    "static/js/2.ccc4ef2a.chunk.js",
     "static/css/main.d47453e4.chunk.css",
-    "static/js/main.f0a53709.chunk.js"
+    "static/js/main.96104b6a.chunk.js"
   ]
 }
