@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/button-generator/static/css/main.d47453e4.chunk.css",
-    "main.js": "/button-generator/static/js/main.7df03be3.chunk.js",
-    "main.js.map": "/button-generator/static/js/main.7df03be3.chunk.js.map",
+    "main.js": "/button-generator/static/js/main.52233e0b.chunk.js",
+    "main.js.map": "/button-generator/static/js/main.52233e0b.chunk.js.map",
     "runtime-main.js": "/button-generator/static/js/runtime-main.f525dff7.js",
     "runtime-main.js.map": "/button-generator/static/js/runtime-main.f525dff7.js.map",
     "static/js/2.ccc4ef2a.chunk.js": "/button-generator/static/js/2.ccc4ef2a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f525dff7.js",
     "static/js/2.ccc4ef2a.chunk.js",
     "static/css/main.d47453e4.chunk.css",
-    "static/js/main.7df03be3.chunk.js"
+    "static/js/main.52233e0b.chunk.js"
   ]
 }
